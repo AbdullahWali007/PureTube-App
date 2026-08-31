@@ -1,0 +1,9 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.0.1",
+  "minSupportedVersionCode": 1,
+  "isMandatory": false,
+  "releaseDate": "2026-08-31",
+  "downloadUrl": "https://github.com/AbdullahWali007/PureTube-App/releases/download/v1.0.1/app-release.apk",
+  "releaseNotes": "• Added tab swipe navigation in Download Manager\n• Optimized download card layout and fixed text wrapping\n• Improved background stability & ad-blocking engine"
+}
