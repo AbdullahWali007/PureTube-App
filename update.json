@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.0.1",
+  "latestVersionCode": 3,
+  "latestVersionName": "1.1.0",
   "minSupportedVersionCode": 1,
   "isMandatory": false,
-  "releaseDate": "2026-08-31",
-  "downloadUrl": "https://github.com/AbdullahWali007/PureTube-App/releases/download/v1.0.1/app-release.apk",
-  "releaseNotes": "• Delete confirmation dialog: choose to remove from list only or delete file from phone storage\n• In-app APK Update Checker with seamless background download and installation\n• Gesture swipe navigation between All, Downloading, and Completed tabs in Download Manager\n• Responsive download cards with clean metadata badges\n• Ad-free YouTube experience with Background and PiP playback support"
+  "releaseDate": "2026-09-02",
+  "downloadUrl": "https://github.com/AbdullahWali007/PureTube-App/releases/download/v1.1.0/app-release.apk",
+  "releaseNotes": "• Fixed standalone audio downloads"
 }
