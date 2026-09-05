@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 3,
-  "latestVersionName": "1.1.0",
+  "latestVersionCode": 4,
+  "latestVersionName": "1.1.2",
   "minSupportedVersionCode": 1,
   "isMandatory": false,
-  "releaseDate": "2026-09-02",
-  "downloadUrl": "https://github.com/AbdullahWali007/PureTube-App/releases/download/v1.1.0/app-release.apk",
-  "releaseNotes": "• Fixed standalone audio downloads"
+  "releaseDate": "2026-09-05",
+  "downloadUrl": "https://github.com/AbdullahWali007/PureTube-App/releases/download/v1.1.2/app-release.apk",
+  "releaseNotes": "• External links in comments and video descriptions open directly in default external browser\n• Reliable background downloading with foreground service & notification toggle\n• You can now copy any Text in comments and description box \n• In-app Feedback & Bug Report with voluntary device diagnostics and error log attachment."
 }
