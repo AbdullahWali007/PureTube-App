@@ -1,0 +1,6 @@
+{
+  "name": "PureTube",
+  "description": "Watch YouTube in a clean, ad-free environment with background audio and Picture-in-Picture support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

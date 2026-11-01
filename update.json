@@ -1,0 +1,9 @@
+{
+  "latestVersionCode": 4,
+  "latestVersionName": "1.1.2",
+  "minSupportedVersionCode": 1,
+  "isMandatory": false,
+  "releaseDate": "2026-09-05",
+  "downloadUrl": "https://github.com/AbdullahWali007/PureTube-App/releases/download/v1.1.2/app-release.apk",
+  "releaseNotes": "• External links in comments and video descriptions open directly in default external browser\n• Reliable background downloading with foreground service & notification toggle\n• In-app Feedback & Bug Report with voluntary device diagnostics and error log attachment\n• Added In-app Privacy Policy explaining 100% local operation and zero-tracking commitment\n• UI refinements: Clean offline error screen and Clear App Cache option\n• Ad-free YouTube playback with PiP and background audio support"
+}
